@@ -10,7 +10,7 @@ If you're visiting this page, you most likely already know who I am. For those o
 
 ### The Boring Stuff
 
-I am a Network Administrator for [Dynamic Networking Solutions]{http://www.dynamic-networks.net} in Huntsville, AL. As an aspiring information security professional, my job duties often overlap. At the end of the day, yes, I fix computers and promote "synergy".
+I am a Network Administrator for [Dynamic Networking Solutions](http://www.dynamic-networks.net) in Huntsville, AL. As an aspiring information security professional, my job duties often overlap. At the end of the day, yes, I fix computers and promote "synergy".
 
 ### Contact me
 
