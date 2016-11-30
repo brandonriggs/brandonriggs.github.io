@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, I'm Brandon from IT!
 
-### More Information
+If you're visiting this page, you most likely already know who I am. For those of you who don't know me, please continue reading.
 
-A place to include any other types of information that you'd like to include about yourself.
+### The Boring Stuff
+
+I am a Network Administrator for [Dynamic Networking Solutions]{http://www.dynamic-networks.net} in Huntsville, AL. As an aspiring information security professional, my job duties often overlap. At the end of the day, yes, I fix computers and promote "synergy".
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[brandon@dynamic-networks.net](mailto:brandon@dynamic-networks.net)
