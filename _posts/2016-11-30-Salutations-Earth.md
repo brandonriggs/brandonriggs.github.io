@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Salutations, Earth!
+url: 2016-11-30-salutations-earth
 ---
 My first blog post on GitHub! Nice. It will probably never get updated again.
 
